@@ -1,0 +1,40 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+#div_1{
+    height: 33vh;
+    width: 100%;
+    background-color: blue;
+    display:flex;
+    flex-direction: row; 
+}
+
+#div_1 > div {
+    flex: 1;
+    height: 100%;
+}
+
+
+
+#div_2{
+     background-color: chartreuse;
+}
+
+#div_3{
+ 
+ background-color: brown;
+}
+ #div_1_1{
+        background-color: yellow;
+ }
+
+    #div_1_2{
+        background-color: aqua;
+       
+    }
+
+    #div_1_3{
+         background-color: red;
+    }
